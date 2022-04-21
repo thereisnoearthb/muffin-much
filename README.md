@@ -1,3 +1,3 @@
 # muffin-much
 
-Testing temperory Front-end for thereisnoearthb.org
+Testing temporary Front-end for thereisnoearthb.org
